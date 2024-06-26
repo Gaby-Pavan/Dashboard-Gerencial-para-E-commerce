@@ -33,6 +33,8 @@ ETAPAS DE DESENVOLVIMENTO:
 - Analisei a base de dados e importei as tabelas para o PowerBI
 - Fiz o tratamento e limpeza de Dados no Power Query
 - Fiz a relação entre das tabelas (Star Schema)
+  ![image](https://github.com/Gaby-Pavan/PowerBI/assets/172829519/7371fe2b-98d2-4737-8d32-3ae50785cf47)
+
 - Análises de valores totais com criação de cards e graficos de:
   - Total de Faturamento
   - Vendas por Canal
